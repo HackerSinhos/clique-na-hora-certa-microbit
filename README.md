@@ -1,6 +1,3 @@
-
-> Abrir essa página em [https://hackersinhos.github.io/clique-na-hora-certa-microbit/](https://hackersinhos.github.io/clique-na-hora-certa-microbit/)
-
 ## Usar como extensão
 
 Este repositório pode ser adicionado como **extensão** no MakeCode.
